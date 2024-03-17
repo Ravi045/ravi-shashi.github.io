@@ -1614,9 +1614,9 @@ form {
   // left: -100px;;
   z-index: 21;
   padding: 6px 0 0 0;
-  display: block;
+  display: none !important;
   margin: 0 auto;
-  display: none;
+  display: none !important;
   // background: #f86942;
   height: 44px;
   width: 44px;
